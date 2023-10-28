@@ -27,13 +27,15 @@ This code repository contains a Python script for image classification using the
 
 7. **TensorBoard Integration**:
    - Training metrics are logged to TensorBoard for monitoring and analysis.
+     ![Tensor Board Integration](images/TensorBoard.png)
+     ![Last Layer Weights Histogram on Tensor Board](images/lastLayerWeights.png)
 
 ## Usage
 
 1. Clone this repository to your local machine:
 
    ```
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/anupam-sharma-1/LeNet.git)
    ```
 
 2. Ensure you have the required dependencies installed.
